@@ -81,4 +81,4 @@ you can use the Gloo Edge UI to see your graphql API and make a request, first p
 
 Then under APIs -> GraphQL -> default-users-8080
 you can make requests: 
-
+![Gloo UI](https://raw.githubusercontent.com/asayah/gloo-demos/main/gloo-edge/graphql/grpc/UI.png)
